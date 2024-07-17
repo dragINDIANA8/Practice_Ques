@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Element_present_in_Array{
     public static void main(String[] args) {
-        int[] arr = {10,20,30,42,50};
+        int[] arr = {10,20,30,42,50};        // declaring the array and initializing the value at the same time
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the num:");
         int num = sc.nextInt();
