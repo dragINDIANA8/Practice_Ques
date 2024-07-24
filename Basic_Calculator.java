@@ -13,8 +13,8 @@ public class Calculator {
         
         int result;
         boolean playAgain= true;
-
-        switch (op) {
+    
+        switch (op) {   // using switch case statement for the result
             case '+':
             result = a+b;
             System.out.println("Additon of " + a + "+" + b + "=" + result);
