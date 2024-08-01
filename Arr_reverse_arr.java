@@ -1,4 +1,4 @@
-public class Arr_reverse_arr {
+public class Arr_reverse_arr  {
     public static void main(String[] args) {
         int[] arr = {100,50,60,40,30};
 
