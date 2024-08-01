@@ -3,7 +3,7 @@ using namespace std;
 void addition();
 void subtraction();
 void multiplication();
-void division();
+void division(); 
 
 int main()
 {
