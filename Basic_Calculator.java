@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator {
+public class Calculator{
     public static void main (String []agrs){
 
         System.out.print("enter 1st num: ");
