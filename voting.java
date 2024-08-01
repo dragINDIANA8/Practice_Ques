@@ -9,7 +9,7 @@ public static void main(String[]args){
             System.out.print("You are eligible to vote");
         }
         else {
-            System.out.print("Sorry, you are not eligible to vote");
+            System.out.print("Sorry, you are not eligible to vote") ;
         }
     }
 }
