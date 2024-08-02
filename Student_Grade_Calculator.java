@@ -3,7 +3,7 @@ public class Task_02_StudentGradeCalculator {
     public static void main(String[] args) {
 
         System.out.println("*** STUDENT GRADE CALCULATOR MADE BY SHUBHRANSHU SHEKHAR DAS ***");
-        System.out.println("*** ENTER YOUR MARKS OUT OF 100 AND IT WILL SHOW YOU YOUR RESULT ***") ;
+        System.out.println("*** ENTER YOUR MARKS OUT OF 100 AND IT WILL SHOW YOU YOUR RESULT ***");
 
         /* First of all we will take marks of all the subjects as an input
         * and then according to that basis we will generate our total marks,
