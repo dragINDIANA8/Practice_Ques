@@ -13,7 +13,7 @@
         num1=temp;
     }
 
-     printf("GCD of the number is %d",num1) ; 
+     printf("GCD of the number is %d",num1); 
 
     return 0;
 }
