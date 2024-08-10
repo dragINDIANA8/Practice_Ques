@@ -8,7 +8,7 @@ public class Calculator{
         int a = sc.nextInt();
         System.out.print("enter 2nd num: ");
         int b = sc.nextInt();
-        System.out.print("Coose operator to perform(+,-,*,/) : ") ;
+        System.out.print("Coose operator to perform(+,-,*,/) : ")  ;
         char op = sc.next().charAt(0);
         
         int result;
