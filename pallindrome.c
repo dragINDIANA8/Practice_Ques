@@ -2,7 +2,7 @@
 int main()
 {
     int n, r, temp, sum = 0;
-    printf("enter the number:");
+    printf("Enter the number:");
     scanf("%d", &n);
     temp = n;
     while (n > 0)
@@ -12,9 +12,9 @@ int main()
         n = n / 10;
     }
     if (temp == sum)
-        printf("number is pallindrome");
+        printf("Number is pallindrome");
     else
-        printf("number is not pallindrome");
+        printf("Number is not pallindrome");
 
     return 0;
 }
